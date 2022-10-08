@@ -17,4 +17,4 @@ Using the tool is fairly simple since it is very early in development. Simply ru
 
 to create a new folder in the working directory with the name `<name-of-project>`, and copy over the contents of the folder `src`. IF the flag -n is omitted the value of DEFAULT_PROJECT_NAME in `templater.sh` will be used as the name of the project.  
 
-The plan is to add support for multiple templates, as well as other QOL features such as commands for listing current templates, going to the templates' directories to easily edit them in the command line, etc. 
+The plan is to add support for multiple templates, as well as other QOL features such as commands for listing current templates, going to the templates' directories to easily edit them in the command line, etc.  
