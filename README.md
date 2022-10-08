@@ -5,7 +5,7 @@
  To install templater simple clone this repo to a local directory. To more easily use the tool it is adviced to create an alias to run the shell script. Simply add the following line to your favourite shells config file. (or just the one you are using if you for some reason are not using your favourite one.)
 
  ```
-    alias templater="<path-to-repo>/script/templater.sh"
+    alias templater="bash <path-to-repo>/script/templater.sh"
  ```
 
  ## Usage
